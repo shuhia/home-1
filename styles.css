@@ -121,6 +121,7 @@ hr {
 .mountain {
     bottom: 3.5625rem;
     margin: auto;
+    max-width: 100%;
     position: relative;
 
 }
