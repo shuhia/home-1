@@ -22,7 +22,7 @@ h1 {
     color: #72D8C1;
     font-family: 'Lato', sans-serif;
     font-size: 5.625rem;
-    margin: 150px auto 0 auto;
+    margin: 9.375rem auto 0 auto;
 }
 
 h2 {
@@ -89,13 +89,13 @@ hr {
 
 .top-cloud {
     position: absolute;
-    top: 30px;
-    right: 350px;
+    top: 1.875rem;
+    right: 21.875rem;
 }
 
 .bottom-cloud {
-    bottom: 200px;
-    left: 200px;
+     bottom: 12.5rem;
+    left: 12.5rem;
     position: absolute;
     
 }
@@ -108,14 +108,14 @@ hr {
 }
 
 .frisbeepic {
-    margin-left: 30px;
+    margin-left: 1.875rem;
     float: right;
     width: 25%;
 }
 
 .comppic {
     float: left;
-    margin-right: 30px;
+    margin-right: 1.875rem;
     width: 25%;
 }
 
@@ -127,7 +127,7 @@ hr {
 /**************** SKILL ROW **************/
 
 .skill-row {
-    margin: 100px auto 100px auto;
+    margin: 6.25rem auto 6.25rem auto;
     text-align: left;
     width: 50%;
 }
