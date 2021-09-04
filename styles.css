@@ -97,14 +97,13 @@ hr {
      bottom: 12.5rem;
     left: 12.5rem;
     position: absolute;
-    
 }
 
 .mountain {
+    max-width: 100%;
     bottom: 3.5625rem;
     margin: auto;
     position: relative;
-
 }
 
 .frisbeepic {
